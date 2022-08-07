@@ -1,3 +1,13 @@
+# Github User Finder
+
+React Application to find the Github User using the Github rest API and seeing the details of the user on clicking the user
+
+# Build Using
+
+React.js
+Tailwind
+Daisy UI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
